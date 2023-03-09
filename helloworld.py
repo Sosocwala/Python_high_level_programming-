@@ -16,4 +16,3 @@ print(type([20.3, 50.5, 'asanda'])) #list
 print(type({'first_name':'Asanda'}))#Dictionary
 print(type({20.25, 0.55, 55})) #Set
 print(type((20.22, 10.14, 8.54))) #Tuple
-
